@@ -3,6 +3,9 @@ driver.find elements
 click
 clear
 sendKeys
-id, class, name, xpath, linktext, partial linktext
+id, class, name, xpath, linktext, partial linktex 
+auto
+add autoation
 automation
 autom
+master
