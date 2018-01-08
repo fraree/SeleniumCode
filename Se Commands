@@ -1,5 +1,6 @@
-find element
-find elements
+driver.find element()
+driver.find elements
 click
 clear
-sendKeys4
+sendKeys
+id, class, name, xpath, linktext, partial linktext
