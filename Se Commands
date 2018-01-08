@@ -4,3 +4,4 @@ click
 clear
 sendKeys
 id, class, name, xpath, linktext, partial linktext
+add autoation
